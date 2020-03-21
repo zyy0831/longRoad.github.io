@@ -2,9 +2,11 @@
 
 > 这是一个 **<u>分享与记录的开源:underage:平台</u>**，旨在建设成一个各种**入门级别指南**与个人**经验分享**的开放交流区（希望保持至少 :three: 个人的年活跃量）
 
-点击可进入:four_leaf_clover: [本站博客](https://zyy0831.github.io/longRoad.github.io/)，不过还没有编辑，目前使用的是初始化的模板。
+点击可进入:four_leaf_clover: [本站博客](https://zyy0831.github.io/longRoad.github.io/)，名字随意起的，可以未来更改，博客还没有编辑，目前使用的是初始化的模板。
 
-## 前言
+为保证稳定链接，同步码云，地址为[本站码云](https://gitee.com/zyy798206656/longRoad.github.io)，您如何实现两站同步更新[点击这里](https://gitee.com/help/articles/4284#article-header0)
+
+## 一、前言
 
 ### 1. 特点
 
@@ -43,7 +45,7 @@
 
 真是一举多得哟 ! :smile: :100:
 
-## 简易目录（未来会更正
+## 二、简易目录（未来会更正
 
 - md文件是什么，如何编辑 :arrow_right: [O](入门指南/md文件是什么.md)
 
@@ -51,7 +53,7 @@
 
 - 了解Web入门工具必备 DevTools :arrow_right:  [O](推荐工具/DevTools.md) 
 
-## 贡献
+## 三、贡献
 :clock12: **欢迎贡献！** 留下您的掠影 :paw_prints:
 
 :clock4: 欢迎各种笔记和个人经验分享！也欢迎大家的关注、维护！
@@ -64,6 +66,7 @@
 
 - 方式一：pr，参见这个[博客](https://blog.csdn.net/weixin_44005915/article/details/89049768) 
 - 方式二：在issue留言 :sos: ，被邀请为本开源项目的贡献者。
+- 方式三：[本站码云链接](https://gitee.com/zyy798206656/longRoad.github.io)
 
 
 
