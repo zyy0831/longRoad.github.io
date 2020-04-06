@@ -151,8 +151,22 @@
 ### 6.2 length属性
 
 - 设小，会删除大于等于新length的属性
+
 - 设大，输出结果不一定等于数组内属性的个数
+
 - 相等，例如num[length] = ‘aa’，则被添加到数组的尾部，**与push方法相同**。
+
+  **书外补充**
+
+  ```javascript
+  var arr = [];
+  arr[0] = 0;
+  arr[1] = 1;
+  arr.foo = 'hello world'
+  console.log(arr.length); //2
+  ```
+
+  因为arr.length 与 arr.foo 同属于对象的属性
 
 ### 6.3 删除
 
